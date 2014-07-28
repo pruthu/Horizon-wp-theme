@@ -1,6 +1,6 @@
 Horizon-wp-theme
 ================
-Theme Name: Horizon
+Theme Name: Horizon</br>
 Theme URI: http://www.techvrix.com/
 Author: Pruthu
 Author URI: http://www.pruthu.in/
