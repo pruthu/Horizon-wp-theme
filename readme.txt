@@ -1,7 +1,7 @@
-= Convax Solutions =
+= Techvrix Solutions =
 
-* by the Convax team, http://www.convax.com/
+* by the Pruthu, http://www.pruthu.in/
 
-== ABOUT Convax Solutions ==
+== ABOUT Techvrix Solutions ==
 
-Convax Solutions is a web design and development agency in India, formed by Gopal Raju with a group of IT experts who believe in innovative ideas and are flexible in adapting to the new varied and challenging requirements.
+Techvrix is a web design and development agency in India, formed by pruthu with a group of IT experts who believe in innovative ideas and are flexible in adapting to the new varied and challenging requirements.
